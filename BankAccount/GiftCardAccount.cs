@@ -1,9 +1,9 @@
 using System;
 using testLeb;
 
-namespace testLe
+namespace BankAccount
 {
-	public class GiftCardAccount :BankAccount
+	public class GiftCardAccount :testLeb.BankAccount
 	{
 		private decimal _monthlyDeposit = 0m;
 

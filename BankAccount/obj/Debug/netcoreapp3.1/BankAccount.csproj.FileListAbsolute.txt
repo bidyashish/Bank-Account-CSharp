@@ -1,0 +1,13 @@
+/Users/ashish/Desktop/code/testLe/BankAccount/bin/Debug/netcoreapp3.1/BankAccount.deps.json
+/Users/ashish/Desktop/code/testLe/BankAccount/bin/Debug/netcoreapp3.1/BankAccount.runtimeconfig.json
+/Users/ashish/Desktop/code/testLe/BankAccount/bin/Debug/netcoreapp3.1/BankAccount.runtimeconfig.dev.json
+/Users/ashish/Desktop/code/testLe/BankAccount/bin/Debug/netcoreapp3.1/BankAccount.dll
+/Users/ashish/Desktop/code/testLe/BankAccount/bin/Debug/netcoreapp3.1/BankAccount.pdb
+/Users/ashish/Desktop/code/testLe/BankAccount/obj/Debug/netcoreapp3.1/BankAccount.csproj.AssemblyReference.cache
+/Users/ashish/Desktop/code/testLe/BankAccount/obj/Debug/netcoreapp3.1/BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashish/Desktop/code/testLe/BankAccount/obj/Debug/netcoreapp3.1/BankAccount.AssemblyInfoInputs.cache
+/Users/ashish/Desktop/code/testLe/BankAccount/obj/Debug/netcoreapp3.1/BankAccount.AssemblyInfo.cs
+/Users/ashish/Desktop/code/testLe/BankAccount/obj/Debug/netcoreapp3.1/BankAccount.csproj.CoreCompileInputs.cache
+/Users/ashish/Desktop/code/testLe/BankAccount/obj/Debug/netcoreapp3.1/BankAccount.dll
+/Users/ashish/Desktop/code/testLe/BankAccount/obj/Debug/netcoreapp3.1/BankAccount.pdb
+/Users/ashish/Desktop/code/testLe/BankAccount/obj/Debug/netcoreapp3.1/BankAccount.genruntimeconfig.cache

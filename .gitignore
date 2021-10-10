@@ -1,2 +1,4 @@
-testLe/bin/*
-testLe/obj/*
+*/bin/*
+*/obj/*
+
+*/.idea/*

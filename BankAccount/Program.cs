@@ -1,13 +1,13 @@
 ﻿using System;
 using testLeb;
 
-namespace testLe
+namespace BankAccount
 {
 	internal static class ss
 	{
 		private static void Main(string[] args)
 		{
-			var account = new BankAccount("kendra", 1000);
+			var account = new testLeb.BankAccount("kendra", 1000);
 			Console.WriteLine($"Account {account.Number} was created for {account.Owner} with {account.Balance}");
 
 
