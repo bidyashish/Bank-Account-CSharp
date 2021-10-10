@@ -1,8 +1,9 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
+using testLe;
 
-namespace testLe
+namespace testLeb
 {
 	public class BankAccount
 	{
@@ -99,7 +100,7 @@ namespace testLe
 		public string GetAccountHistory()
 		{
 			var report = new StringBuilder();
-			report.AppendLine("Date \t Ammount \t Note");
+			report.AppendLine("Date \t\t\t Ammount \t Note");
 			foreach (var item in allTransactions)
 				report.AppendLine($"{item.Date}\t{item.Amount}\t{item.Notes}");
 
