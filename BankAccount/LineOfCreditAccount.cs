@@ -1,9 +1,8 @@
 using System;
-using testLeb;
 
 namespace BankAccount
 {
-	public class LineOfCreditAccount : testLeb.BankAccount
+	public class LineOfCreditAccount : BankAccount
 	{
 		public LineOfCreditAccount(string name, decimal initialBalance, decimal creditLimit) : base(name, initialBalance, -creditLimit)
 		{

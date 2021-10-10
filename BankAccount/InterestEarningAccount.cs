@@ -1,9 +1,8 @@
 using System;
-using testLeb;
 
 namespace BankAccount
 {
-	public class InterestEarningAccount :testLeb.BankAccount
+	public class InterestEarningAccount :BankAccount
 	
 	{
 		public InterestEarningAccount(string name, decimal initialBalance) : base(name, initialBalance) 

@@ -1,9 +1,8 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
-using BankAccount;
 
-namespace testLeb
+namespace BankAccount
 {
 	public class BankAccount
 	{

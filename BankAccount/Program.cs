@@ -1,5 +1,4 @@
 ﻿using System;
-using testLeb;
 
 namespace BankAccount
 {
@@ -7,7 +6,7 @@ namespace BankAccount
 	{
 		private static void Main(string[] args)
 		{
-			var account = new testLeb.BankAccount("kendra", 1000);
+			var account = new BankAccount("kendra", 1000);
 			Console.WriteLine($"Account {account.Number} was created for {account.Owner} with {account.Balance}");
 
 
